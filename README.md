@@ -122,7 +122,7 @@ Required R Packages:
 **Note:** The above listed R packages and the R environment has already been created via a Docker container image `public.ecr.aws/v8e3m3v4/sagemaker/r-notebook` and is deployed via AWS SageMaker when running this cloud module.
 
 ## **Architecture Design**
-
+![Modle Anchor](images/Architecture_Diagram.png)
 
 ## **Data**
 
