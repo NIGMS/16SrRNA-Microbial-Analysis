@@ -20,7 +20,7 @@
 
 ## **Overview**
 
-<<--Place Overview Here [Intro_Video.mp4]-->>
+(https://www.youtube.com/watch?v=_4ocpss5Mr0&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=17) [Overview of Microbial 16S rRNA Sequencing Module]
 Watch this video for an overview of the training module. 
 
 This cloud-based learning module introduces the principles of 16S rRNA sequencing and its applications in microbial community analysis. 16S rRNA gene sequencing is a commonly used method to study the diversity and composition of microbial communities by focusing on a specific region of the ribosomal RNA (rRNA) gene that is present in all bacteria. This sequencing technique generates a vast amount of data. Understanding how to process and analyze this data through a series of computational steps is critical in studies related to the human gut microbiome, among others.
@@ -52,7 +52,7 @@ This learning module was designed to be executed on Amazon Web Services (AWS) cl
 - Step 1: Open the Terminal to clone the GitHub repository with the modules and the data. Use the Git command:
 
 ```
-git clone https://github.com/Nevada-Bioinformatics-Center/NIGMS-UNR-2024_CloudModule
+git clone https://github.com/NIGMS/16SrRNA-Microbial-Analysis
 ```
 
 <p align="center">
@@ -111,7 +111,7 @@ Required R Packages:
 - rstatix (version 0.7.2)
 - stringr (version 1.5.1)
 
-**Note:** The above listed R packages and the R environment has already been created via a Docker container image `054037098114.dkr.ecr.us-east-1.amazonaws.com/sagemaker/r-notebook` and is deployed via AWS SageMaker when running this cloud module.
+**Note:** The above listed R packages and the R environment has already been created via a Docker container image `public.ecr.aws/v8e3m3v4/sagemaker/r-notebook` and is deployed via AWS SageMaker when running this cloud module.
 
 ## **Architecture Design**
 
