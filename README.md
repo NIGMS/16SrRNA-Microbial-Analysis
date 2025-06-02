@@ -45,7 +45,8 @@ The objective of this module is to enhance understanding of 16S rRNA sequencing 
 
 ## **Before Starting**
 
-This learning module was designed to be executed on Amazon Web Services (AWS) cloud platform, with the aim of requiring nothing but the files within this GitHub repository. Please, follow the steps highlighed **here** to create a new user account in AWS, open AWS Sagemaker Studio and launch JupyterLab.
+This learning module was designed to be executed on Amazon Web Services (AWS) cloud platform. Follow [these instructions](https://github.com/NIGMS/NIGMS-Sandbox/blob/main/docs/HowToCreateAWSSagemakerNotebooks.md) to set up an AWS SageMaker studio instance and attach this image: `public.ecr.aws/v8e3m3v4/sagemaker/r-notebook` to configure your environment with all dependencies installed.
+
 
 ## **Getting Started**
 
