@@ -1,4 +1,6 @@
-![course card](images/anchor.jpg)
+<p align="center">
+  <img src="images/anchor.jpg" alt="course card">
+</p>
 
 # Microbial analysis of 16S rRNA sequencing data
 
