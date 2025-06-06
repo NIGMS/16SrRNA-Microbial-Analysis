@@ -55,6 +55,13 @@ This learning module was designed to be executed on Amazon Web Services (AWS) cl
 
 ## **Getting Started**
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=CHHSO1NS3Xs&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b">
+<img src="images/aws_container_setup_thumbnail.jpeg" alt="Running an AWS container in AWS SageMaker Studio", width="550"/>
+</a>
+<br>
+<span> Click above image to watch this video for Running an AWS container in AWS SageMaker Studio  </span>
+</p>
  Each learning sub-modules is organized in Jupyter notebooks with step-by-step hands-on practice. This module uses the coding languge R to install necessary tools, obtain data, perform analyses, and visualize the results.
 
 - Step 1: Open the Terminal to clone the GitHub repository with the modules and the data. Use the Git command:
